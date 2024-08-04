@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "name": "HUAWEI Matebook D16, Notebook, mit 16 Zoll Display, Intel\u00ae Core\u2122 i5,i5-12450H Prozessor, 16 GB RAM, 512 GB SSD, Intel\u00ae UHD Graphics, Space Gray, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 1",
+        "price": "99.73",
+        "category_name": "Electronics",
+        "reviews": []
+    },
+    {
+        "id": 2,
+        "name": "HP 17-cp2334ng, Notebook, mit 17,3 Zoll Display, AMD Ryzen\u2122 3,7320U Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon\u2122 Onboard Graphics, Natural Silver, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 2",
+        "price": "89.04",
+        "category_name": "Electronics",
+        "reviews": []
+    },
+    {
+        "id": 3,
+        "name": "LENOVO 15,6\" | Intel Core i5 12500H | 12 x 4.50 GHz | Win 11 Pro | 16 GB | 1000 GB, Laptop mit 15,6 Zoll Display, Intel\u00ae Core\u2122 i5 Prozessor, 16 GB RAM, 1000 GB SSD, Schwarz",
+        "description": "Description for Product 3",
+        "price": "4.15",
+        "category_name": "Electronics",
+        "reviews": []
+    },
+    {
+        "id": 4,
+        "name": "MICROSOFT Surface Laptop 5, Notebook, mit 15 Zoll Display Touchscreen, Intel\u00ae Core\u2122 i7,i7-1255U (evo) Prozessor, 8 GB RAM, 256 GB SSD, Intel\u00ae Iris\u00ae Xe, Platin, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 4",
+        "price": "4.93",
+        "category_name": "Electronics",
+        "reviews": []
+    },
+    {
+        "id": 5,
+        "name": "HP 17,3\" | N4120 | 4 x 2.60 GHz | Win 11 Pro, Notebook mit 17,3 Zoll Display, Intel\u00ae Celeron\u00ae Prozessor, 16 GB RAM, 512 GB SSD, Schwarz",
+        "description": "Description for Product 5",
+        "price": "82.50",
+        "category_name": "Electronics",
+        "reviews": []
+    },
+    {
+        "id": 6,
+        "name": "LENOVO 17,3\" | U300 | 5 x 4.40 GHz | Win11, Notebook mit 17,3 Zoll Display, Intel\u00ae, 24 GB RAM, 1000 GB SSD, Schwarz",
+        "description": "Description for Product 6",
+        "price": "66.77",
+        "category_name": "Electronics",
+        "reviews": []
+    },
+    {
+        "id": 7,
+        "name": "LENOVO V15-IJL | Laptop | 15,6\" | Intel N4500 2 x 2.80 GHz | Windows 11 Pro, Notebook mit 15,6 Zoll Display, Intel\u00ae Celeron\u00ae Prozessor, 16 GB RAM, 512 GB SSD, Schwarz",
+        "description": "Description for Product 7",
+        "price": "48.35",
+        "category_name": "Electronics",
+        "reviews": []
+    },
+    {
+        "id": 8,
+        "name": "HP 17,3\" | N4120 | 4 x 2.60 GHz | Win 11 Pro, Notebook mit 17,3 Zoll Display, Intel\u00ae Celeron\u00ae Prozessor, 16 GB RAM, 1000 GB SSD, Schwarz",
+        "description": "Description for Product 8",
+        "price": "98.53",
+        "category_name": "Electronics",
+        "reviews": []
+    },
+    {
+        "id": 9,
+        "name": "HP 15,6\" | i5 | 4 x 4.20 GHz | Win11, Notebook mit 15,6 Zoll Display, Intel\u00ae Core\u2122 i5 Prozessor, 16 GB RAM, 512 GB SSD, Schwarz",
+        "description": "Description for Product 9",
+        "price": "37.89",
+        "category_name": "Electronics",
+        "reviews": []
+    },
+    {
+        "id": 10,
+        "name": "LENOVO V15 G2 IJL: Intel\u00ae Quad N5100 4x2.80 GHz, Intel UHD, 16GB, 1000GB SSD, Windows 11 Professional, Notebook mit 15,6 Zoll Display, Intel\u00ae Celeron\u00ae Prozessor, 16 GB RAM, 1000 GB SSD, Business Black",
+        "description": "Description for Product 10",
+        "price": "46.00",
+        "category_name": "Electronics",
+        "reviews": []
+    },
+    {
+        "id": 11,
+        "name": "APPLE MacBook Air (2020), Notebook mit 13,3 Zoll Display, Apple M1 Prozessor, 8 GB RAM, 256 GB SSD, M1, Gold",
+        "description": "Description for Product 1",
+        "price": "45.81",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 12,
+        "name": "LENOVO 15,6\" | N4500 | 2 x 2.80 GHz | Win11, Notebook mit 15,6 Zoll Display, Intel\u00ae Celeron\u00ae Prozessor, 8 GB RAM, 512 GB SSD, Schwarz",
+        "description": "Description for Product 2",
+        "price": "35.93",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 13,
+        "name": "ACER Aspire 3 (A315-24P-R1UP), Notebook, mit 15,6 Zoll Display, AMD Ryzen\u2122 3,7320U Prozessor, 16 GB RAM, 512 GB SSD, AMD Radeon\u2122 Onboard Graphics, Pure Silver, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 3",
+        "price": "39.01",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 14,
+        "name": "HP 15,6\" | i7-1255U | 10 x 4.70 GHz | Win11, Notebook mit 15,6 Zoll Display, Intel\u00ae Core\u2122 i7 Prozessor, 16 GB RAM, 1000 GB SSD, Silber",
+        "description": "Description for Product 4",
+        "price": "86.31",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 15,
+        "name": "MICROSOFT Surface Pro 9, 2-in-1 Tablet, mit 13 Zoll Display, Intel\u00ae Core\u2122 i5 i5-1235U (evo) Prozessor, 8 GB RAM, 256 GB SSD, Intel\u00ae Iris\u00ae Xe, Platin, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 5",
+        "price": "9.33",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 16,
+        "name": "HP 15,6\" | i5 | 4 x 4.20 GHz | Win11, Notebook mit 15,6 Zoll Display, Intel\u00ae Core\u2122 i5 Prozessor, 24 GB RAM, 1000 GB SSD, Schwarz",
+        "description": "Description for Product 6",
+        "price": "16.61",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 17,
+        "name": "APPLE MacBook Air (2020), Notebook mit 13,3 Zoll Display, Apple M1 Prozessor, 8 GB RAM, 256 GB SSD, M1, Silber",
+        "description": "Description for Product 7",
+        "price": "1.24",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 18,
+        "name": "SAMSUNG Galaxy Book4, Notebook, mit 15,6 Zoll Display, Intel\u00ae Core\u2122 3,100U Prozessor, 8 GB RAM, 256 GB SSD, Intel\u00ae Core\u2122 Onboard Graphics, Gray, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 8",
+        "price": "19.87",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 19,
+        "name": "APPLE MacBook Air (2024), MRYU3D/A, Notebook, mit 15,3 Zoll Display, M3 Prozessor, 8 GB RAM, 256 GB SSD, Mitternacht, macOS",
+        "description": "Description for Product 9",
+        "price": "25.43",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 20,
+        "name": "ASUS Vivobook 15 OLED M513UA-L1718W, Notebook, mit 15,6 Zoll Display, AMD Ryzen\u2122 7,5700U Prozessor, 16 GB RAM, 512 GB SSD, AMD Radeon\u2122 Onboard Graphics, Schwarz, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 10",
+        "price": "54.49",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 21,
+        "name": "HP 17-cp2334ng, Notebook, mit 17,3 Zoll Display, AMD Ryzen\u2122 3,7320U Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon\u2122 Onboard Graphics, Natural Silver, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 11",
+        "price": "37.12",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 22,
+        "name": "LENOVO 15,6\" | N4500 | 2 x 2.80 GHz | 8 GB | 256 GB | Windows 11 Pro, Notebook mit 15,6 Zoll Display, Intel\u00ae Celeron\u00ae Prozessor, 8 GB RAM, 256 GB SSD, Schwarz",
+        "description": "Description for Product 12",
+        "price": "72.58",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 23,
+        "name": "LENOVO 17,3\" | U300 | 5 x 4.40 GHz | Win11, Notebook mit 17,3 Zoll Display, Intel\u00ae, 24 GB RAM, 2000 GB SSD, Schwarz",
+        "description": "Description for Product 13",
+        "price": "3.91",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 24,
+        "name": "HP Laptop | 17,3\" | Intel Core i5 1335U | 10 x 4.60 GHz | Win 11 Pro, Notebook mit 17,3 Zoll Display, Intel\u00ae Core\u2122 i5 Prozessor, 16 GB RAM, 1000 GB SSD, Silber",
+        "description": "Description for Product 14",
+        "price": "19.31",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 25,
+        "name": "MICROSOFT Surface Pro 9, 2-in-1 Tablet, mit 13 Zoll Display, Intel\u00ae Core\u2122 i5 i5-1235U (evo) Prozessor, 16 GB RAM, 256 GB SSD, Intel\u00ae Iris\u00ae Xe, Platin, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 15",
+        "price": "41.40",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 26,
+        "name": "ACER Aspire 5 (A515-57-53QH) mit Tastaturbeleuchtung, Notebook, mit 15,6 Zoll Display, Intel\u00ae Core\u2122 i5,i5-12450H Prozessor, 16 GB RAM, 512 GB SSD, Intel\u00ae UHD Graphics, Steel Gray, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 16",
+        "price": "69.53",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 27,
+        "name": "HP 15s-fq0317ng, Notebook, mit 15,6 Zoll Display, Intel\u00ae Celeron\u00ae,N4120 Prozessor, 8 GB RAM, 512 GB SSD, Intel\u00ae UHD 600, Grau, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 17",
+        "price": "15.44",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 28,
+        "name": "PEAQ Classic PNB C140V-2G428D-1, Notebook, mit 14 Zoll Display, Intel\u00ae Pentium\u00ae Silver,N5030 Prozessor, 4 GB RAM, 128 GB SSD, Intel\u00ae UHD 605, Grau, Windows 11 Home S-Modus (64 Bit)",
+        "description": "Description for Product 18",
+        "price": "43.02",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 29,
+        "name": "LENOVO V17 G4 IRU\u2502i7-1355U\u250224GB RAM\u25021000GB NVMe, Notebook mit 17,3 Zoll Display, Intel\u00ae Core\u2122 i7 Prozessor, 24 GB RAM, 1000 GB SSD, Iron grey",
+        "description": "Description for Product 19",
+        "price": "55.09",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 30,
+        "name": "APPLE MacBook Air (2024), MRXV3D/A, Notebook, mit 13,6 Zoll Display, M3 Prozessor, 8 GB RAM, 256 GB SSD, Mitternacht, macOS",
+        "description": "Description for Product 20",
+        "price": "13.47",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 31,
+        "name": "HP | 15,6\" | AMD Ryzen 5 | 6 x 4.40 GHz | Win 11 Pro, Notebook mit 15,6 Zoll Display, AMD Ryzen\u2122 5 Prozessor, 16 GB RAM, 1000 GB SSD, Silber",
+        "description": "Description for Product 21",
+        "price": "64.84",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 32,
+        "name": "ASUS Zenbook 14 Flip OLED, Convertible, mit 14 Zoll Display Touchscreen, AMD Ryzen\u2122 9,5900HX Prozessor, 16 GB RAM, 512 GB SSD, AMD Radeon\u2122 Onboard Graphics, Schwarz, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 22",
+        "price": "81.21",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 33,
+        "name": "LENOVO V15 G2 IJL: Intel\u00ae Quad N5100 4x2.80 GHz, Intel UHD, 8GB, 512GB SSD, Windows 11 Professional, Notebook mit 15,6 Zoll Display, Intel\u00ae N-Series Prozessor, 8 GB RAM, 512 GB SSD, Business Black",
+        "description": "Description for Product 23",
+        "price": "41.05",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 34,
+        "name": "ACER Aspire 3 (A315-44P-R53H), Notebook, mit 15,6 Zoll Display, AMD Ryzen\u2122 7,5700U Prozessor, 16 GB RAM, 1 TB SSD, AMD Radeon\u2122 Onboard Graphics, Pure Silver, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 24",
+        "price": "23.94",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 35,
+        "name": "MICROSOFT Surface Pro 9 , 2-in-1 Tablet, mit 13 Zoll Display, Intel\u00ae Core\u2122 i7 i7-1255U (evo) Prozessor, 16 GB RAM, 256 GB SSD, Intel\u00ae Iris\u00ae Xe, Graphit, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 25",
+        "price": "21.58",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 36,
+        "name": "ACER Aspire 5 (A515-57-518G) mit Tastaturbeleuchtung, Notebook, mit 15,6 Zoll Display, Intel\u00ae Core\u2122 i5,i5-1235U Prozessor, 16 GB RAM, 512 GB SSD, Intel\u00ae Iris\u00ae Xe, Steel Gray, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 26",
+        "price": "55.79",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 37,
+        "name": "HP 255 G10 | 15,6\" | AMD Ryzen 5 | 6 x 4.40 GHz | Win 11 Pro, Notebook mit 15,6 Zoll Display, AMD Ryzen\u2122 5 Prozessor, 16 GB RAM, 512 GB SSD, Silber",
+        "description": "Description for Product 27",
+        "price": "28.06",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 38,
+        "name": "LENOVO IdeaPad 3i, Notebook, mit 15,6 Zoll Display, Intel\u00ae Core\u2122 i3,i3-1215U Prozessor, 8 GB RAM, 512 GB SSD, Intel\u00ae UHD Graphics, Arctic Grey, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 28",
+        "price": "6.38",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 39,
+        "name": "HP Laptop 15s-fq5353ng, Notebook, mit 15,6 Zoll Display, Intel\u00ae Core\u2122 i5,i5-1235U Prozessor, 8 GB RAM, 512 GB SSD, Intel\u00ae Iris\u00ae Xe, Natursilber, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 29",
+        "price": "36.02",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 40,
+        "name": "HP Laptop 17-cp2333ng, Notebook, mit 17,3 Zoll Display, AMD Ryzen\u2122 3,7320U Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon\u2122 Onboard Graphics, Natursilber, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 30",
+        "price": "66.77",
+        "category_name": "Laptops",
+        "reviews": []
+    },
+    {
+        "id": 41,
+        "name": "LENOVO IdeaPad 5i Pro, Notebook, mit 14 Zoll Display, Intel\u00ae Core\u2122 i5,i5-1240P Prozessor, 16 GB RAM, 512 GB SSD, Intel\u00ae Iris\u00ae Xe, Storm Grey, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 1",
+        "price": "82.05",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 42,
+        "name": "LENOVO IdeaPad 5i Pro, Notebook, mit 14 Zoll Display, Intel\u00ae Core\u2122 i5,i5-1240P Prozessor, 16 GB RAM, 512 GB SSD, Intel\u00ae Iris\u00ae Xe, Storm Grey, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 2",
+        "price": "93.83",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 43,
+        "name": "LENOVO IdeaPad 1i, inkl. 1 Jahr Microsoft 365 Single, Notebook, mit 15,6 Zoll Display, Intel\u00ae Celeron\u00ae,N4120 Prozessor, 4 GB RAM, 128 GB eMMC, Intel\u00ae UHD 600, Cloud Grey, Windows 11 Home S-Modus (64 Bit)",
+        "description": "Description for Product 3",
+        "price": "28.01",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 44,
+        "name": "LENOVO IdeaPad 3, Notebook, mit 17,3 Zoll Display, AMD Ryzen\u2122 5,5500U Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon\u2122 Onboard Graphics, Arctic Grey, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 4",
+        "price": "34.84",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 45,
+        "name": "HP | 15,6\" | Intel N4500 | 2 x 2.80 GHz | Win 11 Pro, Notebook mit 15,6 Zoll Display, Intel\u00ae Celeron\u00ae Prozessor, 8 GB RAM, 256 GB SSD, Schwarz",
+        "description": "Description for Product 5",
+        "price": "10.50",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 46,
+        "name": "LENOVO IdeaPad 1 15IGL7 82V70076GE, Notebook mit 15,6 Zoll Display, Intel\u00ae Celeron\u00ae Prozessor, 4 GB RAM, 128 GB SSD, Blau",
+        "description": "Description for Product 6",
+        "price": "28.79",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 47,
+        "name": "APPLE MacBook Pro (2023), Notebook mit 16 Zoll Display, Apple M3 Pro Chip, 18 GB RAM, 18-Core GPU, 512 GB SSD, Space Schwarz",
+        "description": "Description for Product 7",
+        "price": "72.40",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 48,
+        "name": "ACER Nitro 5 (AN515-57-57SB) mit 144 Hz Display & RGB Tastaturbeleuchtung, Gaming Notebook, mit 15,6 Zoll Display, Intel\u00ae Core\u2122 i5,i5-11400H Prozessor, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX\u2122 3060, Schwarz/Rot, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 8",
+        "price": "42.66",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 49,
+        "name": "HP 17-cp2334ng, Notebook, mit 17,3 Zoll Display, AMD Ryzen\u2122 3,7320U Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon\u2122 Onboard Graphics, Natural Silver, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 9",
+        "price": "39.36",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 50,
+        "name": "MSI Katana 17 B13VFK-848, Gaming Notebook, mit 17,3 Zoll Display, Intel\u00ae Core\u2122 i7,i7-13620H Prozessor, 16 GB RAM, 1 TB SSD, NVIDIA GeForce RTX\u2122 4060, Schwarz, Windows 11 (64 Bit)",
+        "description": "Description for Product 10",
+        "price": "7.14",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 51,
+        "name": "HP 17-cp2334ng, Notebook, mit 17,3 Zoll Display, AMD Ryzen\u2122 3,7320U Prozessor, 8 GB RAM, 512 GB SSD, AMD Radeon\u2122 Onboard Graphics, Natural Silver, Windows 11 Home (64 Bit)",
+        "description": "Description for Product 11",
+        "price": "16.46",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 52,
+        "name": "HP | 15,6\" | Intel N4500 | 2 x 2.80 GHz | Win 11 Pro, Notebook mit 15,6 Zoll Display, Intel\u00ae Celeron\u00ae Prozessor, 8 GB RAM, 256 GB SSD, Schwarz",
+        "description": "Description for Product 12",
+        "price": "67.76",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 53,
+        "name": "LENOVO 15,6\" | N4500 | 2 x 2.80 GHz | 8 GB | 256 GB | Windows 11 Pro, Notebook mit 15,6 Zoll Display, Intel\u00ae Celeron\u00ae Prozessor, 8 GB RAM, 256 GB SSD, Schwarz",
+        "description": "Description for Product 13",
+        "price": "59.61",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 54,
+        "name": "SAMSUNG Galaxy A15 128 GB Schwarz Dual SIM",
+        "description": "Description for Product 14",
+        "price": "58.59",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 55,
+        "name": "MOTOROLA moto e13 128 GB Cosmic Black Dual SIM",
+        "description": "Description for Product 15",
+        "price": "73.50",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 56,
+        "name": "XIAOMI Redmi 12 128 GB Midnight Black Dual SIM",
+        "description": "Description for Product 16",
+        "price": "12.70",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 57,
+        "name": "XIAOMI Redmi A2 32 GB Black Dual SIM",
+        "description": "Description for Product 17",
+        "price": "30.18",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 58,
+        "name": "XIAOMI Redmi 12 128 GB Sky Blue Dual SIM",
+        "description": "Description for Product 18",
+        "price": "29.19",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 59,
+        "name": "XIAOMI Redmi A3 64 GB Midnight Black Dual SIM",
+        "description": "Description for Product 19",
+        "price": "26.38",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 60,
+        "name": "XIAOMI Redmi A2 32 GB Light Blue Dual SIM",
+        "description": "Description for Product 20",
+        "price": "5.11",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 61,
+        "name": "ZTE Blade A73, 4 GB RAM + 4 GB RAM Memory Fusion 128 GB Space Black Dual SIM",
+        "description": "Description for Product 21",
+        "price": "53.35",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 62,
+        "name": "XIAOMI Redmi 13C 256 GB Blau Dual SIM",
+        "description": "Description for Product 22",
+        "price": "33.58",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 63,
+        "name": "BLACKVIEW A52Pro Smartphone Ohne vertrag 90Hz 6.52\" HD+ Display, Octa Core Android 13, 5180mAh 13MP+5MP Kamera 128 GB Blau Dual SIM",
+        "description": "Description for Product 23",
+        "price": "1.81",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 64,
+        "name": "XIAOMI Redmi Note 13 4G 128 GB Gelb Dual SIM",
+        "description": "Description for Product 24",
+        "price": "45.25",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 65,
+        "name": "OSCAL S70Pro Outdoor Handy Ohne Vertrag , 2,3GHz Octa-Core Prozessor, 6580mAh Akku, 13MP Kamera 64 GB Orange Dual SIM",
+        "description": "Description for Product 25",
+        "price": "13.09",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 66,
+        "name": "HONOR Magic 5 Lite 5G 256 GB Emerald Green Dual SIM",
+        "description": "Description for Product 26",
+        "price": "49.62",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 67,
+        "name": "XIAOMI Redmi A2 32 GB Light Green Dual SIM",
+        "description": "Description for Product 27",
+        "price": "28.49",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 68,
+        "name": "OSCAL Modern8 Smartphone, MediaTek T616, Octa-Core, 6,75-Zoll-FHD-Display, 5000 mAh, 8 MP + 50 MP Kamera 256 GB Grau Dual SIM",
+        "description": "Description for Product 28",
+        "price": "92.05",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 69,
+        "name": "SAMSUNG Galaxy A15 5G 128 GB Blue Black Dual SIM",
+        "description": "Description for Product 29",
+        "price": "66.15",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 70,
+        "name": "SAMSUNG REFURBISHED (*) Galaxy Z Flip 3 5G 256 GB lila Dual SIM",
+        "description": "Description for Product 30",
+        "price": "9.34",
+        "category_name": "Handy",
+        "reviews": []
+    },
+    {
+        "id": 71,
+        "name": "BEAFON C70_EU001B 32 GB Schwarz Dual SIM",
+        "description": "Description for Product 1",
+        "price": "83.74",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 72,
+        "name": "XIAOMI Redmi Note 13 Pro 5G 256 GB Midnight Black Dual SIM",
+        "description": "Description for Product 2",
+        "price": "68.90",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 73,
+        "name": "XIAOMI Redmi Note 13 128 GB Midnight Black Dual SIM",
+        "description": "Description for Product 3",
+        "price": "46.90",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 74,
+        "name": "SAMSUNG REFURBISHED (*) Galaxy Z Fold 3 5G 256 GB silber Dual SIM",
+        "description": "Description for Product 4",
+        "price": "42.77",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 75,
+        "name": "XIAOMI Redmi 13C 128 GB Midnight Black Dual SIM",
+        "description": "Description for Product 5",
+        "price": "12.56",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 76,
+        "name": "NOKIA C32 64 GB Rosa Dual SIM",
+        "description": "Description for Product 6",
+        "price": "51.13",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 77,
+        "name": "SAMSUNG Galaxy S23 5G 128 GB Phantom Black Dual SIM",
+        "description": "Description for Product 7",
+        "price": "32.44",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 78,
+        "name": "XIAOMI Redmi 12 128 GB Polar Silver Dual SIM",
+        "description": "Description for Product 8",
+        "price": "54.74",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 79,
+        "name": "SAMSUNG Galaxy A04s 32 GB schwarz Dual SIM",
+        "description": "Description for Product 9",
+        "price": "36.46",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 80,
+        "name": "APPLE iPhone 15 5G 128 GB Schwarz Dual SIM",
+        "description": "Description for Product 10",
+        "price": "52.75",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 81,
+        "name": "GOOGLE Pixel 7a 128 GB Charcoal Dual SIM",
+        "description": "Description for Product 11",
+        "price": "8.41",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 82,
+        "name": "APPLE iPhone 15 Pro Max 5G 256 GB Titan Natur Dual SIM",
+        "description": "Description for Product 12",
+        "price": "23.44",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 83,
+        "name": "APPLE iPhone 15 Pro Max 5G 256 GB Titan Schwarz Dual SIM",
+        "description": "Description for Product 13",
+        "price": "65.91",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 84,
+        "name": "APPLE iPhone 13 128 GB Mitternacht Dual SIM",
+        "description": "Description for Product 14",
+        "price": "83.34",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 85,
+        "name": "APPLE iPhone 15 Pro 5G 256 GB Titan Schwarz Dual SIM",
+        "description": "Description for Product 15",
+        "price": "37.41",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 86,
+        "name": "SAMSUNG Galaxy A15 5G 128 GB Blue Dual SIM",
+        "description": "Description for Product 16",
+        "price": "71.50",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 87,
+        "name": "SAMSUNG REFURBISHED (*) Galaxy Z Flip 3 5G 256 GB wei\u00df Dual SIM",
+        "description": "Description for Product 17",
+        "price": "59.30",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 88,
+        "name": "SWISSTONE SC 230 Handy, Schwarz",
+        "description": "Description for Product 18",
+        "price": "69.34",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 89,
+        "name": "SAMSUNG Galaxy A34 5G 128 GB Awesome Graphite Dual SIM",
+        "description": "Description for Product 19",
+        "price": "73.14",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 90,
+        "name": "ZTE Blade A31 Lite 32 GB Blau Dual SIM",
+        "description": "Description for Product 20",
+        "price": "32.80",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 91,
+        "name": "XIAOMI Redmi 13C 128 GB Navy Blue Dual SIM",
+        "description": "Description for Product 21",
+        "price": "11.77",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 92,
+        "name": "BLACKVIEW Color 8 Handy Ohne Vertrag, Android 13, T616",
+        "description": "Description for Product 22",
+        "price": "10.25",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 93,
+        "name": "SWISSTONE SC 230 Handy, Rot",
+        "description": "Description for Product 23",
+        "price": "38.91",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 94,
+        "name": "APPLE REFURBISHED (*) iPhone 12 mini 64 GB lila Dual SIM",
+        "description": "Description for Product 24",
+        "price": "65.66",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 95,
+        "name": "XIAOMI Redmi Note 13 Pro 5G 256 GB Midnight Black Dual SIM",
+        "description": "Description for Product 25",
+        "price": "57.20",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 96,
+        "name": "XIAOMI Redmi A3 64 GB Forest Green Dual SIM",
+        "description": "Description for Product 26",
+        "price": "33.07",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 97,
+        "name": "XIAOMI Redmi A3 64 GB Star Blue Dual SIM",
+        "description": "Description for Product 27",
+        "price": "57.86",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 98,
+        "name": "NOKIA C32 64 GB Rosa Dual SIM",
+        "description": "Description for Product 28",
+        "price": "79.97",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 99,
+        "name": "SAMSUNG Galaxy S23 5G 128 GB Phantom Black Dual SIM",
+        "description": "Description for Product 29",
+        "price": "53.87",
+        "category_name": "Apple",
+        "reviews": []
+    },
+    {
+        "id": 100,
+        "name": "XIAOMI Redmi 12 128 GB Polar Silver Dual SIM",
+        "description": "Description for Product 30",
+        "price": "84.63",
+        "category_name": "Apple",
+        "reviews": []
+    }
+]
