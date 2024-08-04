@@ -1,7 +1,7 @@
 # Marketplace and Database Project
 
 ## Overview
-This project serves as the backend for managing marketplaces and the associated product data. It provides RESTful API endpoints for accessing and managing product data, reviews, and other related information. This project is designed to work in conjunction with the [Marketplace Automation Project](https://github.com/yourusername/marketplace-automation), which handles recommendations and additional automation processes.
+This project serves as the backend for managing marketplaces and the associated product data. It provides RESTful API endpoints for accessing and managing product data, reviews, and other related information. This project is designed to work in conjunction with (the https://github.com/alex827a/Django_and_recomendation_distilbert_system.git) which handles recommendations and additional automation processes.
 
 ## Features
 - **RESTful API**: Provides endpoints to access and manage product data.
