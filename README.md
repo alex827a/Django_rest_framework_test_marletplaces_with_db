@@ -15,7 +15,7 @@ This project serves as the backend for managing marketplaces and the associated 
   - `Marketplace`: Represents a marketplace where products are sold.
   - `Category`: Represents a category of products.
 
-- **API Endpoints**:
+- **API Endpoints** (requires token authentication):
   - `GET /api/products/`: Retrieve a list of products.
   - `GET /api/products/<id>/`: Retrieve details of a specific product.
   - `GET /api/reviews/`: Retrieve a list of reviews.
@@ -23,10 +23,8 @@ This project serves as the backend for managing marketplaces and the associated 
   - `GET /api/marketplaces/`: Retrieve a list of marketplaces.
   - `GET /api/marketplaces/<id>/`: Retrieve details of a specific marketplace.
 
-
 ## Prerequisites
 - Python 3.10+
 - Django 5.0.3+
-
-
+- Necessary Python packages as listed in `requirements.txt`
 
